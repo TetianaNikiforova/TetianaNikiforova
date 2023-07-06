@@ -69,7 +69,8 @@ img{
 }
 
 .menu-nav{
-    padding: 24px 0 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .menu a:hover{
@@ -361,6 +362,7 @@ ul{
     line-height: 1.2;
     letter-spacing: 0.02em;
     background: var(--white-color);
+    margin-bottom: 8px;
 }
 
 /**-------Footer---------***/
@@ -513,5 +515,4 @@ ul{
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px;
 }
