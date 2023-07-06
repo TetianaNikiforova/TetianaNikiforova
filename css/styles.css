@@ -69,8 +69,8 @@ img{
 }
 
 .menu-nav{
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding-top: 9px;
+    padding-bottom: 9px;
 }
 
 .menu a:hover{
@@ -89,7 +89,7 @@ img{
 .connect{
     display: flex;
     gap: 40px;
-    padding-top: 24px;
+    padding-top: 9px;
     padding-left: 290px;
 }
 
