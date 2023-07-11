@@ -322,7 +322,8 @@ ul {
 }
 
 .team{
-    background-color: #F4F4FD;  
+    background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
 .team-title{
@@ -340,7 +341,7 @@ ul {
 }
 
 .conteiner-team{
-    padding: 120px 0;
+    
 }
 
 .team-cards{
@@ -398,7 +399,6 @@ ul{
 .conteiner-footer{
     flex-shrink: 0;
     flex-direction: column;
-    padding: 100px 0;
 }
 
 .footer-paragraf{
@@ -425,6 +425,7 @@ ul{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-decoration: none;
+    padding: 100px 0;
 }
 
 .footer .stud{
